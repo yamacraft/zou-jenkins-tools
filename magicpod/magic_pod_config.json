@@ -1,0 +1,17 @@
+{
+  "owner": "LeadingMark",
+  "project": "androidsample",
+  "capabilities": {
+    "platformName": "Android",
+    "deviceName": "Android",
+    "app": "app/build/outputs/apk/app-release.apk"
+  },
+  "xmlTestOutput": true,
+  "externalAppium": false,
+  "debug": false,
+  "serverUrl": "https://magic-pod.com",
+  "workDir": "magic-pod-work",
+  "testNumber": "",
+  "envVars": [],
+  "appiumServerUrl": ""
+}
